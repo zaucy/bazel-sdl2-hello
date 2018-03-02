@@ -11,13 +11,14 @@
 bazel build //:bazel-sdl2-hello
 ```
 
-### Copy SDL2.dll to folder with `.exe`. Only have to do this once (unless you clean)
+### Copy SDL2.dll
+Only have to do this once (unless you clean)
 
 ```bat
 copy .\bazel-bazel-sdl2-hello\external\SDL2\lib\x64\SDL2.dll .\bazel-bin\
 ```
 
-### Run
+### Running
 
 ```bat
 bazel run //:bazel-sdl2-hello
