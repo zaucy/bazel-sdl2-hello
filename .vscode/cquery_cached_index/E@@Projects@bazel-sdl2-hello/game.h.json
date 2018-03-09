@@ -1,2 +1,0 @@
-15
-{"last_modification_time":1520563732,"language":0,"import_file":"E:/Projects/bazel-sdl2-hello/game.h","args":["clang++","-working-directory=E:/Projects/bazel-sdl2-hello/","E:/Projects/bazel-sdl2-hello/game.h","-resource-dir=C:/msys64/mingw64/lib/clang/5.0.1","-Wno-unknown-warning-option","-fparse-all-comments"],"includes":[],"dependencies":[],"skipped_by_preprocessor":[],"types":[],"funcs":[],"vars":[]}
