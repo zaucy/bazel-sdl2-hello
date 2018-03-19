@@ -5,7 +5,6 @@ cc_binary(
 		"game.h",
 	],
 	deps = [
-		"@SDL2//:SDL2",
-		"@SDL2//:SDL2main",
+		"@sdl2//:SDL2",
 	],
 )
